@@ -1,0 +1,17 @@
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\bin\Debug\net6.0\KohiF2TechAsia.Application.deps.json
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\bin\Debug\net6.0\KohiF2TechAsia.Application.dll
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\bin\Debug\net6.0\KohiF2TechAsia.Application.pdb
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\bin\Debug\net6.0\KohiF2TechAsia.Domain.dll
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\bin\Debug\net6.0\KohiF2TechAsia.Infrastructure.dll
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\bin\Debug\net6.0\KohiF2TechAsia.Infrastructure.pdb
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\bin\Debug\net6.0\KohiF2TechAsia.Domain.pdb
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\KohiF2TechAsia.Application.csproj.AssemblyReference.cache
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\KohiF2TechAsia.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\KohiF2TechAsia.Application.AssemblyInfoInputs.cache
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\KohiF2TechAsia.Application.AssemblyInfo.cs
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\KohiF2TechAsia.Application.csproj.CoreCompileInputs.cache
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\KohiF2TechAsia.Application.csproj.CopyComplete
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\KohiF2TechAsia.Application.dll
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\refint\KohiF2TechAsia.Application.dll
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\KohiF2TechAsia.Application.pdb
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Application\obj\Debug\net6.0\ref\KohiF2TechAsia.Application.dll

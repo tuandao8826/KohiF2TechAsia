@@ -1,0 +1,108 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "KohiF2TechAsia.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/KohiF2TechAsia.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KohiF2TechAsia.Domain.dll": {}
+        }
+      },
+      "KohiF2TechAsia.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "KohiF2TechAsia.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/KohiF2TechAsia.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/KohiF2TechAsia.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KohiF2TechAsia.Domain/1.0.0": {
+      "type": "project",
+      "path": "../KohiF2TechAsia.Domain/KohiF2TechAsia.Domain.csproj",
+      "msbuildProject": "../KohiF2TechAsia.Domain/KohiF2TechAsia.Domain.csproj"
+    },
+    "KohiF2TechAsia.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../KohiF2TechAsia.Infrastructure/KohiF2TechAsia.Infrastructure.csproj",
+      "msbuildProject": "../KohiF2TechAsia.Infrastructure/KohiF2TechAsia.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "KohiF2TechAsia.Infrastructure >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\tuand\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Huflit_Study_Material\\Project\\project\\InternTestF2TechAsia\\KohiF2TechAsia\\KohiF2TechAsia.Application\\KohiF2TechAsia.Application.csproj",
+      "projectName": "KohiF2TechAsia.Application",
+      "projectPath": "C:\\Huflit_Study_Material\\Project\\project\\InternTestF2TechAsia\\KohiF2TechAsia\\KohiF2TechAsia.Application\\KohiF2TechAsia.Application.csproj",
+      "packagesPath": "C:\\Users\\tuand\\.nuget\\packages\\",
+      "outputPath": "C:\\Huflit_Study_Material\\Project\\project\\InternTestF2TechAsia\\KohiF2TechAsia\\KohiF2TechAsia.Application\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\tuand\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Huflit_Study_Material\\Project\\project\\InternTestF2TechAsia\\KohiF2TechAsia\\KohiF2TechAsia.Infrastructure\\KohiF2TechAsia.Infrastructure.csproj": {
+              "projectPath": "C:\\Huflit_Study_Material\\Project\\project\\InternTestF2TechAsia\\KohiF2TechAsia\\KohiF2TechAsia.Infrastructure\\KohiF2TechAsia.Infrastructure.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "KohiF2TechAsia.Application/1.0.0": {
+        "dependencies": {
+          "KohiF2TechAsia.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "KohiF2TechAsia.Application.dll": {}
+        }
+      },
+      "KohiF2TechAsia.Domain/1.0.0": {
+        "runtime": {
+          "KohiF2TechAsia.Domain.dll": {}
+        }
+      },
+      "KohiF2TechAsia.Infrastructure/1.0.0": {
+        "dependencies": {
+          "KohiF2TechAsia.Domain": "1.0.0"
+        },
+        "runtime": {
+          "KohiF2TechAsia.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "KohiF2TechAsia.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KohiF2TechAsia.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "KohiF2TechAsia.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

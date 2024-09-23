@@ -1,0 +1,15 @@
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\bin\Debug\net6.0\KohiF2TechAsia.Infrastructure.deps.json
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\bin\Debug\net6.0\KohiF2TechAsia.Infrastructure.dll
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\bin\Debug\net6.0\KohiF2TechAsia.Infrastructure.pdb
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\bin\Debug\net6.0\KohiF2TechAsia.Domain.dll
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\bin\Debug\net6.0\KohiF2TechAsia.Domain.pdb
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\KohiF2TechAsia.Infrastructure.csproj.AssemblyReference.cache
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\KohiF2TechAsia.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\KohiF2TechAsia.Infrastructure.AssemblyInfoInputs.cache
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\KohiF2TechAsia.Infrastructure.AssemblyInfo.cs
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\KohiF2TechAsia.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\KohiF2TechAsia.Infrastructure.csproj.CopyComplete
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\KohiF2TechAsia.Infrastructure.dll
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\refint\KohiF2TechAsia.Infrastructure.dll
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\KohiF2TechAsia.Infrastructure.pdb
+C:\Huflit_Study_Material\Project\project\InternTestF2TechAsia\KohiF2TechAsia\KohiF2TechAsia.Infrastructure\obj\Debug\net6.0\ref\KohiF2TechAsia.Infrastructure.dll
